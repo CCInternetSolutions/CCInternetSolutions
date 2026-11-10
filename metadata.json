@@ -1,0 +1,6 @@
+{
+  "name": "Central Coast Internet Solutions",
+  "description": "Austel ACMA licensed cabler 28yrs based in Long Jetty. NBN fault repairs, Starlink roof mounts, Wi-Fi mesh, Cat6 data cabling, and TV antennas across the Central Coast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
